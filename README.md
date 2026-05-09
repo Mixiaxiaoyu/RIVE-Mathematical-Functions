@@ -14,4 +14,4 @@ alpha 粒子透明度。范围 0–255，数值越高越亮，过高容易糊成
 
 particleSize 单个粒子尺寸。数值越小越细腻，数值越大越厚重。
 
-源文件 https://editor.rive.app/file/p5js/2274058
+
